@@ -6,8 +6,6 @@ The submitted artifacts include the source code for each of the 8 Unity games. E
 Please note that, due to conflicts with the Standard Unity Asset Store EULA, some images could not be included in the artifact submission. As a result, all images have been excluded from the source files of the games. Similarly, the source files for the website, which contain complete builds of each of the games, have also been excluded from this submission. In order to view and play the games with the original images, please visit the website at https://efish-n-sea.github.io/.
 
 The authors are applying for the Available and Reusable badges. All relevant artifacts which have been created by the authors have been placed on a publicly accessible archival repository and are included in this submission. These artifacts include the source code for each of the 8 Unity games. The submission does not include the images used in the website and games, which were not created by the authors. Without these images, the artifacts are still complete and functional. Instructions for preparation and reuse of the artifacts are documented with great care and detail.
-## Provenance
-The artifacts can be found in the archival repository located at    . A preprint of the paper can be found as a PDF file in this submission.
 ## Setup
 In order to prepare the Unity games for execution, you must first install the Unity development platform. Detailed instructions for this process can be found at https://unity.com/download. The recommended version of Unity is 2021.3.18f1, as this is the latest version on which the games were developed. However, newer versions should also be compatible.
 

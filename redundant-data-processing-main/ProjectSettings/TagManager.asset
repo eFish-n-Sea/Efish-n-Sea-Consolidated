@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Wall
+  - scrollBg
+  - Instructions
+  - Results
+  - Tips
+  - Curtain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - wall
+  - box
+  - scroll
+  - temp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Seabed
+    uniqueID: 2961000855
+    locked: 0
+  - name: Truck
+    uniqueID: 175728619
+    locked: 0
+  - name: BoxPlaced
+    uniqueID: 1303955117
+    locked: 0
+  - name: Garage door
+    uniqueID: 3621477411
+    locked: 0
+  - name: Garage
+    uniqueID: 4025144517
+    locked: 0
+  - name: Scroll
+    uniqueID: 3395101663
+    locked: 0
+  - name: Box
+    uniqueID: 3387323217
+    locked: 0
+  - name: ScrollHide
+    uniqueID: 1339666603
+    locked: 0
+  - name: Temp
+    uniqueID: 1742400319
+    locked: 0

@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Instructions
+  - Results
+  - Curtain
+  - Tips
+  - Notepad
+  - Controls
+  - CamControl
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3933447967
+    locked: 0
+  - name: Puzzle Tiles
+    uniqueID: 1161974455
+    locked: 0
+  - name: Color Filters
+    uniqueID: 2185979847
+    locked: 0
+  - name: Walls
+    uniqueID: 2684892931
+    locked: 0
+  - name: Bottles
+    uniqueID: 3947803697
+    locked: 0
+  - name: Locked Doors
+    uniqueID: 2676848997
+    locked: 0
+  - name: Chest
+    uniqueID: 3676973717
+    locked: 0
+  - name: Player
+    uniqueID: 1433906859
+    locked: 0
+  - name: Open Doors
+    uniqueID: 3128022945
+    locked: 0
+  - name: Speech Bubbles
+    uniqueID: 3258329077
+    locked: 0
+  - name: Bubble Text
+    uniqueID: 1205367939
+    locked: 0
+  - name: Lock
+    uniqueID: 845998441
+    locked: 0
+  - name: Notepad
+    uniqueID: 1788518551
+    locked: 0
+  - name: Curtain
+    uniqueID: 65522471
+    locked: 0
+  - name: Canvas
+    uniqueID: 1764683729
+    locked: 0
+  - name: Lines
+    uniqueID: 3898405381
+    locked: 0

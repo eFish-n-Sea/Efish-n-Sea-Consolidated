@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7955c4c581c4d484485cf2f28f788f86
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gc: {instanceID: 0}
+  - timer: {instanceID: 0}
+  - wrongFishPopUp: {fileID: 7335894173597514558, guid: 1bfc22c395537e3448c96deab044ff81, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

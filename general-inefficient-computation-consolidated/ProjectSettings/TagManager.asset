@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - forwardButton
+  - colorButton
+  - speciesButton
+  - nameButton
+  - police
+  - shrimplockHolmes
+  - fishContainer
+  - timer
+  - fishCaught
+  - wrongPop
+  - Instructions
+  - Results
+  - Curtain
+  - Tips
+  - dialogue
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: water
+    uniqueID: 1211902771
+    locked: 0
+  - name: backgroundFish
+    uniqueID: 3432983703
+    locked: 0
+  - name: waterTransparent
+    uniqueID: 2642536951
+    locked: 0
+  - name: rays
+    uniqueID: 2147441559
+    locked: 0
+  - name: foam
+    uniqueID: 4083259853
+    locked: 0
+  - name: backBottom
+    uniqueID: 3837774671
+    locked: 0
+  - name: frontBottom
+    uniqueID: 651421477
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: discus
+    uniqueID: 322277031
+    locked: 0
+  - name: angler
+    uniqueID: 1099575281
+    locked: 0
+  - name: spikefish
+    uniqueID: 3937908785
+    locked: 0
+  - name: longangel
+    uniqueID: 3480642671
+    locked: 0
+  - name: roundangel
+    uniqueID: 1687690551
+    locked: 0
+  - name: flounder
+    uniqueID: 3299853093
+    locked: 0
+  - name: seahorse
+    uniqueID: 2018320719
+    locked: 0
+  - name: clown
+    uniqueID: 4262726179
+    locked: 0
+  - name: butterfly
+    uniqueID: 1013895195
+    locked: 0
+  - name: police
+    uniqueID: 3648123475
+    locked: 0
+  - name: criminalContain
+    uniqueID: 3138512111
+    locked: 0
+  - name: criminal
+    uniqueID: 4092953141
+    locked: 0
+  - name: shrimplock
+    uniqueID: 3010656691
+    locked: 0
+  - name: dialogue
+    uniqueID: 3048336349
+    locked: 0
